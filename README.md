@@ -10,7 +10,7 @@
 <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </p>
 
-<div style="text-align:center"><img src="https://st2.depositphotos.com/1001201/5314/i/950/depositphotos_53145427-stock-photo-problem-and-confusion-of-businessman.jpg" alt="Bakery image" width="300"/></div>
+<div><img src="https://st2.depositphotos.com/1001201/5314/i/950/depositphotos_53145427-stock-photo-problem-and-confusion-of-businessman.jpg" alt="Bakery image" width="50%" display="block" margin-left="auto" margin-right="auto"/></div>
 
 ---
 
@@ -35,7 +35,7 @@ Implement the MinStack class:
 
 ## <div align="center"> 🚥 Tests
 
-<img src="assets/1.png" width=350/>
+<img src="assets/1.png" width=50% display="block" margin-left="auto" margin-right="auto"/>
 
 ## <div align="center"> 🛠️ _Technologies used:_
 
